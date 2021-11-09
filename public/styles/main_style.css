@@ -1,9 +1,9 @@
 body{
-    background-color: cyan;
+    background-color: blanchedalmond;
 }
 .nav {
     position: absolute;
-    background-color: rgb(51, 184, 11);
+    background-color: rgb(15, 20, 13);
     height: 60px;
     top:0px;
     left: 0px;
@@ -12,28 +12,45 @@ body{
 }
 .brand {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: darkred;
+    color: rgb(240, 230, 230);
     font-size: 24px;
     font-weight: bold;
     font-style: italic;
-    padding: 50%;
-    margin-left: 60px;
+    padding-left: 50px;
     position: relative;
-    top: 10%;
+    margin: 0%;
+    top: 50%;
     transform: translateY(-50%);
     float: left;
 }
 
 
 .menu {
-  color: aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(245, 239, 239);
     font-size: 18px;
     font-weight: bold;
     position: relative;
-    margin: 1;
+    margin: 0;
     top: 50%;
     transform: translateY(-50%);
     float: right;
-    padding-right: 90%;
+    padding-right: 20px;
+    border-style: groove;
+    border-radius: 20px;
+    border-color: burlywood;
+    background-color: darkseagreen;
+    color: honeydew;
+
+}
+
+.futebol {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    position: absolute;
+
+    
+
 
 }
