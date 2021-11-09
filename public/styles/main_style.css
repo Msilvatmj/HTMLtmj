@@ -1,0 +1,39 @@
+body{
+    background-color: cyan;
+}
+.nav {
+    position: absolute;
+    background-color: rgb(51, 184, 11);
+    height: 60px;
+    top:0px;
+    left: 0px;
+    right: 0px;
+
+}
+.brand {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: darkred;
+    font-size: 24px;
+    font-weight: bold;
+    font-style: italic;
+    padding: 50%;
+    margin-left: 60px;
+    position: relative;
+    top: 10%;
+    transform: translateY(-50%);
+    float: left;
+}
+
+
+.menu {
+  color: aliceblue;
+    font-size: 18px;
+    font-weight: bold;
+    position: relative;
+    margin: 1;
+    top: 50%;
+    transform: translateY(-50%);
+    float: right;
+    padding-right: 90%;
+
+}

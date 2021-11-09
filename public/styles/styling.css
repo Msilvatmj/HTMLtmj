@@ -4,6 +4,15 @@
     background-color: burlywood;
 }
 
-#p2{
-    background-color: chartreuse;
+.santa_clara{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+
+
+.centrar_texto {
+    text-align: center;
+    font-weight: bold;
 }
